@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eunjic
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ I’m looking to collaborate on data analysis, machine learning, artificial intelligence
 - 📫 How to reach me : mail) hfdhgfiy@naver.com
 
 <!---
